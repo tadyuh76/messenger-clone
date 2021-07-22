@@ -6,7 +6,7 @@ This is the project which I made for learning React Native
 Tools:
 * Expo CLI
 * Firebase Auth - Create and Login user,
-* Firebase Firestore - Storing Chat rooms, Chat mesages,
+* Firebase Firestore - Storing Chat rooms, Chat messages,
 * Firebase Cloud Storage - Storing profile images, group images and images in chat rooms.
 * React Navigation v5
 
